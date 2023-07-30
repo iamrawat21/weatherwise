@@ -1,4 +1,4 @@
-# weatherwise Welcome to WeatherWise, the smart and intuitive web application that provides you with comprehensive weather forecasts at your fingertips. With WeatherWise, you'll never be caught off guard by sudden weather changes or unprepared for your upcoming plans. We believe in empowering you with accurate, real-time weather data and forecasts, presented in a user-friendly and aesthetically pleasing manner.
+Welcome to WeatherWise, the smart and intuitive web application that provides you with comprehensive weather forecasts at your fingertips. With WeatherWise, you'll never be caught off guard by sudden weather changes or unprepared for your upcoming plans. We believe in empowering you with accurate, real-time weather data and forecasts, presented in a user-friendly and aesthetically pleasing manner.
 
 Key Features:
 
